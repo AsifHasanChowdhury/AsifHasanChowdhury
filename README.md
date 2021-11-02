@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://lh3.googleusercontent.com/proxy/t7ZIah8g_wUAjWOCNAAf6oIsBE7SMk3OPOkmHrN1ziMrunOZ72QUzvgZiG6WE0HESO-qPZDxpfI7UU469kuVIht8mzH5Oc7QuSZOBybELu56Uz930zpHfA4YeXmS65IY_Q-PD_VcAnuK9O5nR-rOxTNAazdNDHJGzSwukr0" />
+<img align="left" alt="MongoDB" width="26px hight="26px" src="https://lh3.googleusercontent.com/proxy/t7ZIah8g_wUAjWOCNAAf6oIsBE7SMk3OPOkmHrN1ziMrunOZ72QUzvgZiG6WE0HESO-qPZDxpfI7UU469kuVIht8mzH5Oc7QuSZOBybELu56Uz930zpHfA4YeXmS65IY_Q-PD_VcAnuK9O5nR-rOxTNAazdNDHJGzSwukr0" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
